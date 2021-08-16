@@ -15,4 +15,4 @@ Mi ricordo che all'epoca alcuni membri di STD (gruppo telegram di sviluppatori d
 L'unico problema secondo me sarebbe trovare l'utenza per farlo funzionare, che senso ha un forum se nessuno lo usa? Inoltre se dovesse essere utilizzato da qualcuno potrei inserire qualche pubblicità AdSense, in modo da monetizzare e ripagarmi le spese di Host e Dominio.
 Un buon nome sarebbe juve.page, che al momento su Google Domains costa solo 10 Euro l'anno, sarebbe un affare.
 
-![Google Domains](https://i.postimg.cc/0NKKWMLW/googledomainsjuvepage.jpg)
+![Google Domains]({{site.baseurl}}/images/googledomainsjuvepage.JPG)
