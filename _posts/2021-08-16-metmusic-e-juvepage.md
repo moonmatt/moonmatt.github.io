@@ -1,8 +1,6 @@
 ---
 published: true
 ---
-## Il mio primo post
-
 Ciao, sono Matteo e ho deciso di aprire questo 'blog' per scrivere riguardo ai miei progetti attuali e per poter vedere nel futuro i miei vecchi lavori.
 
 Al momento sto lavorando ad un'applicazione web-based in Node.js che permette di scaricare musica da YouTube e riprodurla. Una sorta di Spotify però self-hosted, ossia ognuno si tiene il proprio backend nel proprio server.
