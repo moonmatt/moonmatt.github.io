@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You're up and running!
+title: 16 Agosto 2021 | Il mio primo post
 published: true
 ---
 Ciao, sono Matteo e ho deciso di aprire questo 'blog' per scrivere riguardo ai miei progetti attuali e per poter vedere nel futuro i miei vecchi lavori.
@@ -17,4 +17,4 @@ Mi ricordo che all'epoca alcuni membri di STD (gruppo telegram di sviluppatori d
 L'unico problema secondo me sarebbe trovare l'utenza per farlo funzionare, che senso ha un forum se nessuno lo usa? Inoltre se dovesse essere utilizzato da qualcuno potrei inserire qualche pubblicità AdSense, in modo da monetizzare e ripagarmi le spese di Host e Dominio.
 Un buon nome sarebbe juve.page, che al momento su Google Domains costa solo 10 Euro l'anno, sarebbe un affare.
 
-![googledomainsjuvepage.JPG]({{site.baseurl}}/_posts/googledomainsjuvepage.JPG)
+![]({{site.baseurl}}/https://i.ibb.co/Vgz4SgV/googledomainsjuvepage.jpg)
