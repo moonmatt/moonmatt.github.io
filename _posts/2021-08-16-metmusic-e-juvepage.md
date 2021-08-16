@@ -4,7 +4,7 @@ published: true
 Ciao, sono Matteo e ho deciso di aprire questo 'blog' per scrivere riguardo ai miei progetti attuali e per poter vedere nel futuro i miei vecchi lavori.
 
 Al momento sto lavorando ad un'applicazione web-based in Node.js che permette di scaricare musica da YouTube e riprodurla. Una sorta di Spotify però self-hosted, ossia ognuno si tiene il proprio backend nel proprio server.  
-Al momento il nome che ho deciso è metmusic, sono già a buon punto e penso di poter finire il tutto entro la fine di Agosto. Una volta finito questo progetto, ho intenzione di impacchettarlo per bene e renderlo open-source in modo che ognuno possa hostarlo sul proprio server.
+Al momento il nome che ho deciso è metmusic, sono già a buon punto e penso di poter finire il tutto entro la fine di Agosto. Una volta finito questo progetto, ho intenzione di impacchettarlo per bene e renderlo open-source in modo che ognuno possa hostarlo sul proprio server.  
 ![metmusic]({{site.baseurl}}/images/metmusic1.png)
 
 In seguito a metmusic stavo pensando di creare un gioco di strategia multiplayer, sono ancora indeciso se farlo solo online, oppure se farlo per desktop tramite Electron, poco cambia, ho ancora tempo per decidere, si vedrà. Non sono neanche così certo di volerlo fare, però era da un po' di tempo che avevo questa idea.
