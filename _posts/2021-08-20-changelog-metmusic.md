@@ -20,3 +20,10 @@ PS: Per il frontent ho preso spunto da Apple Music e per caricare le canzoni da 
 Eh si, visto che caricare canzone per canzone risulta abbastanza noioso, ho implementato le playlist, bello mettere 30 canzoni alla volta eh? haha.  
 
 Ora è presente anche il pulsante per cancellare le canzoni che non vogliamo più e i messaggi in basso a destra per comunicare messaggi dal server.
+
+Quasi mi stavo dimenticando, è possibile anche cercare le canzoni, per nome, per artista, o qualsiasi cosa!
+
+
+
+
+
