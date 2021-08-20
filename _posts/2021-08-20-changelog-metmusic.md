@@ -26,8 +26,6 @@ Quasi mi stavo dimenticando, è possibile anche cercare le canzoni, per nome, pe
 <div class="embed-container">
   <iframe
       src="https://streamable.com/s/6jjv9p"
-      height="360"
-      width="640"
       frameborder="0"
       scrolling="no"
       allowfullscreen="true">
