@@ -1,6 +1,8 @@
 ---
 published: true
 ---
+streamableId: 6jjv9p
+
 Ho ricominciato a lavorare a metmusic, e devo dire che sta procedendo molto bene.  
 Sono riuscito ad implementare il corretto funzionamento del media player da mobile, ovvero i controlli che appaiono quando apri il menù a tendina oppure nella schermata di blocco.  
 
