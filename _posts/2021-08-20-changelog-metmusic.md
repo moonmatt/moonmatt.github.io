@@ -1,10 +1,6 @@
 ---
 published: true
 ---
----
-streamableId: 6jjv9p
----
-
 Ho ricominciato a lavorare a metmusic, e devo dire che sta procedendo molto bene.  
 Sono riuscito ad implementare il corretto funzionamento del media player da mobile, ovvero i controlli che appaiono quando apri il menù a tendina oppure nella schermata di blocco.  
 
@@ -27,4 +23,13 @@ Ora è presente anche il pulsante per cancellare le canzoni che non vogliamo pi�
 
 Quasi mi stavo dimenticando, è possibile anche cercare le canzoni, per nome, per artista, o qualsiasi cosa!
 
-{% include streamablePlayer.html id=page.streamableId %}
+<div class="embed-container">
+  <iframe
+      src="https://streamable.com/s/6jjv9p"
+      height="360"
+      width="640"
+      frameborder="0"
+      scrolling="no"
+      allowfullscreen="true">
+  </iframe>
+</div>
