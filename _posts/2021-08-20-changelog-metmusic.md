@@ -23,11 +23,4 @@ Ora è presente anche il pulsante per cancellare le canzoni che non vogliamo pi�
 
 Quasi mi stavo dimenticando, è possibile anche cercare le canzoni, per nome, per artista, o qualsiasi cosa!
 
-<div class="embed-container">
-  <iframe
-      src="https://streamable.com/s/6jjv9p"
-      frameborder="0"
-      scrolling="no"
-      allowfullscreen="true">
-  </iframe>
-</div>
+<div style="width:100%;height:0px;position:relative;padding-bottom:56.250%;"><iframe src="https://streamable.com/e/6jjv9p?loop=0" frameborder="0" width="100%" height="100%" allowfullscreen style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden;"></iframe></div>
